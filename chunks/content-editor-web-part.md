@@ -1,11 +1,12 @@
- ---
- title: Using the Content Editor Web Part (CEWP) 
- description: TBD
- audience: Developer, End User
- product-major: SharePoint
- product-minor: NA
- glossary-links: CEWP
- ---
+---
+title: Using the Content Editor Web Part (CEWP) 
+description: TBD
+audience: Developer, End User
+product-major: SharePoint
+product-minor: NA
+glossary-links: CEWP
+---
+ 
 # Using the Content Editor Web Part (CEWP) 
  
 # TL;DR
