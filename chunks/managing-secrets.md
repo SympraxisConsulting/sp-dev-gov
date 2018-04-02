@@ -1,3 +1,13 @@
+---
+title: Managing Secrets
+description: TBD
+audience: Developer, Administrator, Security Administrator
+product-major: SharePoint
+product-minor: Azure
+glossary-links: app secret, client secret, certificate, key, password
+version: 0.01 (DRAFT)
+---
+
 # Managing Secrets
 
 ## Overview
@@ -6,24 +16,11 @@ Many projects end up generating _secrets_ which require careful management. Exam
 
 Secrets like this are less likely to turn up in a SharePoint Framework project, but are required in Provider Hosted Add-ins. They also often occur when extending SharePoint via Azure Functions, web apps, remote timer jobs, etc.
 
- |  |  | 
- | --- | --- |
- | VERSION | 0.01 |
- | STATUS | DRAFT |
-
-## Actors
-
-[NOTE there should be definitions of the actors in the Glossary, that are used throughout the documentation.]
-
-* Administrator
-* Developer
-* Security Admin
-
 ## Options
 
 There is a range of options for secret management; your organization may want to choose one or more of them for different environments such as Development, Staging, and Production. In no case will secrets be shared by more than one environment (for example, sharing a certificate or identity between Development and Staging is never allowed.)
 
-Fill in and include one or more of the following optional sections for each application environment in your governance plan.
+Fill in and include one or more of the following optional sections for each application environment in your governance plan (for example: development, staging, and production).
 
 ### Option 1 - No Security
 
