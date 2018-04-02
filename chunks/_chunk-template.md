@@ -9,7 +9,7 @@ glossary-links: Glossary terms to link
 
 # Chunk Title
  
-## TL;DR
+## Summary
 A brief summary of what the chunk is about and why it matters
  
 ## Main Content

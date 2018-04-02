@@ -9,7 +9,7 @@ glossary-links: SPFx, No-script site
 
 # Loading arbitrary scripts in SharePoint Framework components
 
-## TL;DR
+## Summary
 
 If your SharePoint Framework component allows users to specify an additional piece of script to load on the page, set the `requiresCustomScript` property in the component's property to `true`.
 

@@ -10,7 +10,7 @@ version: 0.01 (DRAFT)
 
 # Managing Secrets
 
-## Overview
+## Summary
 
 Many projects end up generating _secrets_ which require careful management. Examples include passwords, client or app secrets, encryption keys, and digital certificates. This nugget provides options for managing these secrets in a development project.
 

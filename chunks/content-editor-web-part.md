@@ -9,7 +9,7 @@ glossary-links: CEWP, Citizen Developer
  
 # Using the Content Editor Web Part (CEWP) 
  
-## TL;DR
+## Summary
 The CEWP is a valuable tool used in "classic" SharePoint to embed arbitrary HTML, JavaScript, and CSS into pages.
  
 ## Main Content
