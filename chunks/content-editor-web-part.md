@@ -9,10 +9,10 @@ glossary-links: CEWP
  
 # Using the Content Editor Web Part (CEWP) 
  
-# TL;DR
+## TL;DR
 The CEWP is a valuable tool used mainly in "classic" SharePoint to embed arbitrary HTML, JavaScript, and CSS into pages.
  
-# Main Content
+## Main Content
  
 The "meat" of the "chunk".
 May contain:
@@ -24,6 +24,4 @@ May not contain:
 * Prescriptive absolutes
  
 Within the main content, we will have side sections called "In English" or "For clarity" or something. Marc thinks of this like those sections in PowerPoint decks years ago where we used this guy. Maybe something a little less corny, but using a signpost that let's the reader know there's help for the technical jargon.
- 
-# Summary
-(Waldek does this really well on his blog posts)
+
