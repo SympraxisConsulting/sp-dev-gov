@@ -6,7 +6,7 @@ product-minor: NA
 glossary-links: Glossary terms to link
 ---
 
-# Chunk Title
+# [Title]
  
 ## Summary
 A brief summary of what the nugget is about and why it matters
