@@ -1,6 +1,5 @@
 ---
-title: Using the Content Editor Web Part (CEWP) 
-description: TBD
+title: Using the Content Editor Web Part (CEWP)
 audience: Developer, End User
 product-major: SharePoint
 product-minor: NA

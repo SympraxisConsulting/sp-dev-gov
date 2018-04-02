@@ -1,6 +1,5 @@
 ---
 title: Loading arbitrary scripts in SharePoint Framework components
-description: TBD
 audience: Developer, Administrator, Architect
 product-major: SharePoint
 product-minor: NA

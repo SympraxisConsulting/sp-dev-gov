@@ -1,6 +1,5 @@
 ---
 title: Managing Secrets
-description: TBD
 audience: Developer, Administrator, Security Administrator
 product-major: SharePoint
 product-minor: Azure

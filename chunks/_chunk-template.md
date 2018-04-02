@@ -1,6 +1,5 @@
 ---
 title: Title of the chunk
-description: Description of the chunk
 audience: Developer, Administrator, Architect
 product-major: SharePoint
 product-minor: NA
