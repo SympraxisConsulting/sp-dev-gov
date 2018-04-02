@@ -1,6 +1,11 @@
-
-# tags
-[Probably YAML or the like, which identify who this content is relevant for, what topic(s) it covers, committee owner, etc.]
+---
+title: Title of the chunk
+description: Description of the chunk
+audience: Developer, Administrator, Architect
+product-major: SharePoint
+product-minor: NA
+glossary-links: Glossary terms to link
+---
  
 # TL;DR
 A brief summary of what the chunk is about and why it matters
