@@ -1,4 +1,3 @@
-
 ---
 title: Future-Proof Client-Side SharePoint Customizations
 audience: Developer, Administrator, Architect, Security Administrator
