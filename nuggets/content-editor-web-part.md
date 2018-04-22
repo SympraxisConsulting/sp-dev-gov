@@ -12,7 +12,7 @@ glossary-links: CEWP, Citizen Developer
 The CEWP is a valuable tool used in "classic" SharePoint to embed arbitrary HTML, JavaScript, and CSS into pages.
  
 ## Main Content
-The Content Editor Web Part (CEWP) was originally created to allow site owners to add arbitrary HTML to their pages. This was useful for things like formatted tables of content, images, and other common content challenges. Over time, as JavaScript became more popular, many people started using the CEWP to embed not just HTML (content), but also CSS and JavaScript (code).
+The Content Editor Web Part (CEWP) was originally created to allow site owners to add arbitrary HTML to their pages. This was useful to create formatted tables of content, images, and other common content challenges. Over time, as JavaScript became more popular, many people started using the CEWP to embed not just HTML (content), but also CSS and JavaScript (code).
 
 ### Pros
 * Provides a very quick way to embed content or code in the page
