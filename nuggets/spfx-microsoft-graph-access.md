@@ -38,9 +38,9 @@ This means that if the requested resource scopes grants higher access rights tha
 Surfacing data from other workloads in Office 365 via the SharePoint Framework is a powerful way to create solutions combining data from multiple data sources. Instead of creating back-end services to handle data access, you can easily create data-driven solution directly in your SharePoint Framework solutions.
 
 ## Cons
-When a tenant administrator grants access to a resource in the Microsoft Graph for one SharePoint Framework solution, that resource is also available for all other SharePoint Framework solutions in your tenant without them being explicitly granted.
+When a tenant administrator grants access to a resource in the Microsoft Graph for one SharePoint Framework solution, that resource is also available to **all other scripts**, including third party libraries you might be loading from a CDN without them being explicitly granted.
 
-This means that if one web part is granted access to read and write to a users Planner tasks, then any other web part installed in your tenant can also read and write to the users Planner tasks, even though only requested read rights was requested for the solution.
+This means that if one web part is granted access to read and write to a users Planner tasks, then any other web part installed in your tenant or script running on your page can also read and write to the users Planner tasks, even though only requested read rights was requested for the solution.
 
 Due to the way resource scopes are made available to SharePoint Framework solutions, it is important for an administrator to check what resources SharePoint Framework solutions requires, especially if coming from non-trusted third parties.
 
